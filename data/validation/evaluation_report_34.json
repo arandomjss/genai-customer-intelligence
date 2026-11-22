@@ -1,0 +1,55 @@
+{
+  "matched_reviews": 34,
+  "prediction_only": 0,
+  "gold_only": 0,
+  "fields": {
+    "aspects": {
+      "tp": 65,
+      "predicted": 102,
+      "gold": 97,
+      "precision": 0.6372549019607843,
+      "recall": 0.6701030927835051,
+      "f1": 0.6532663316582914
+    },
+    "customer_issues": {
+      "tp": 7,
+      "predicted": 23,
+      "gold": 24,
+      "precision": 0.30434782608695654,
+      "recall": 0.2916666666666667,
+      "f1": 0.2978723404255319
+    },
+    "feature_requests": {
+      "tp": 1,
+      "predicted": 1,
+      "gold": 1,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "use_cases": {
+      "tp": 7,
+      "predicted": 22,
+      "gold": 24,
+      "precision": 0.3181818181818182,
+      "recall": 0.2916666666666667,
+      "f1": 0.30434782608695654
+    },
+    "positive_points": {
+      "tp": 12,
+      "predicted": 77,
+      "gold": 68,
+      "precision": 0.15584415584415584,
+      "recall": 0.17647058823529413,
+      "f1": 0.16551724137931037
+    },
+    "negative_points": {
+      "tp": 3,
+      "predicted": 30,
+      "gold": 24,
+      "precision": 0.1,
+      "recall": 0.125,
+      "f1": 0.11111111111111112
+    }
+  }
+}

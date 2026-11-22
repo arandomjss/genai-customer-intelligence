@@ -1,0 +1,3043 @@
+[
+  {
+    "parent_asin": "B0011FOMV6",
+    "review_count": 5,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "sentiment_counts": {
+          "positive": 2,
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000003_b6f8aacbbd85",
+            "evidence": "The Jabras are very comfortable to wear",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000005_5bdc33045424",
+            "evidence": "can't wear it for too long",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000006_70679425545b",
+            "evidence": "are comfortable",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "noise cancellation",
+        "sentiment_counts": {
+          "positive": 3
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000002_778baf90ca02",
+            "evidence": "Most noise is cancelled",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000003_b6f8aacbbd85",
+            "evidence": "background noise dissappears",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000004_b716c125f387",
+            "evidence": "noise cancellation is noticeably better than the Maxells",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sound quality",
+        "sentiment_counts": {
+          "positive": 3
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000002_778baf90ca02",
+            "evidence": "extremely impressed",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000005_5bdc33045424",
+            "evidence": "The sound quality is good",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000006_70679425545b",
+            "evidence": "Sound quality is very good",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "audio cord",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000003_b6f8aacbbd85",
+            "evidence": "removable audio cord",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "build quality",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000006_70679425545b",
+            "evidence": "Above average sound and build quality",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "carrying case",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000004_b716c125f387",
+            "evidence": "case the Jabras come with is nice and sturdy... little nuts in the way it can completely zip apart",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "case",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000003_b6f8aacbbd85",
+            "evidence": "nice sturdy case",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "construction",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000003_b6f8aacbbd85",
+            "evidence": "The headphones seem to be well constructed",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "detachable cord",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000004_b716c125f387",
+            "evidence": "detachable cord is a significant factor",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "fit",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000002_778baf90ca02",
+            "evidence": "fit is extremely comfortable",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "included accessories",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000006_70679425545b",
+            "evidence": "Comes in handy tuff zip case... Various adapters are included",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "left earpiece",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000003_b6f8aacbbd85",
+            "evidence": "I could hear a radio station playing lightly in the left earpiece",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "noise cancelling",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000006_70679425545b",
+            "evidence": "The Noise Cancelling is very effective at reducing constant noise",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "noise-cancellation",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000005_5bdc33045424",
+            "evidence": "small hissing sound when the noise-cancellation is on",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "price",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000002_778baf90ca02",
+            "evidence": "don't cost a lot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sound amplification",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000003_b6f8aacbbd85",
+            "evidence": "the music from my palm pilot gets a bit louder",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sound fidelity",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000004_b716c125f387",
+            "evidence": "good enough fidelity when the noise canceling feature is on",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "temperature",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000005_5bdc33045424",
+            "evidence": "It is too warm for my ears",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "weight",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000003_b6f8aacbbd85",
+            "evidence": "are lightweight",
+            "sentiment": "positive"
+          }
+        ]
+      }
+    ],
+    "top_customer_issues": [
+      {
+        "text": "heard a radio station playing lightly in the left earpiece when music was turned off",
+        "count": 1
+      },
+      {
+        "text": "ears become too warm",
+        "count": 1
+      },
+      {
+        "text": "small hissing sound when noise-cancellation is on",
+        "count": 1
+      },
+      {
+        "text": "cannot wear headphones for more than half an hour because they feel like ear muffs",
+        "count": 1
+      },
+      {
+        "text": "low level hissing sound with Noise Cancelling turned on",
+        "count": 1
+      },
+      {
+        "text": "ears can get warm",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": []
+  },
+  {
+    "parent_asin": "B0014JFXSK",
+    "review_count": 8,
+    "aspects": [
+      {
+        "aspect": "sound quality",
+        "sentiment_counts": {
+          "positive": 3,
+          "negative": 2,
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000007_fa406afb62f0",
+            "evidence": "sound pretty good",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000008_77516792ad55",
+            "evidence": "Disappointing sound quality",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000009_907c8750e1cb",
+            "evidence": "good sound",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "durability",
+        "sentiment_counts": {
+          "negative": 3
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000011_73335681d4ec",
+            "evidence": "couldn't get sound out of left speaker, loud crackling out of the right speaker",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000012_918f3c6387e1",
+            "evidence": "Both of our headphones broke after a short amount of time",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000013_daac7a9ebbe1",
+            "evidence": "durability seems to be an issue",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "fit",
+        "sentiment_counts": {
+          "negative": 2,
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000008_77516792ad55",
+            "evidence": "hooks are pivoted making them a pain in the ass to put on my ear comfortably",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000009_907c8750e1cb",
+            "evidence": "would not stay in place behind my ears",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000010_f1c9957f7500",
+            "evidence": "are secure when exercising",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "comfort",
+        "sentiment_counts": {
+          "negative": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000010_f1c9957f7500",
+            "evidence": "my ear canals were pretty sore",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000011_73335681d4ec",
+            "evidence": "hard rubber rim around the actual speakers hurt the inside of your ear",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "bass",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000008_77516792ad55",
+            "evidence": "bass is non existant",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "design",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000013_daac7a9ebbe1",
+            "evidence": "love the design",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "highs",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000008_77516792ad55",
+            "evidence": "terrible highs",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "materials",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000010_f1c9957f7500",
+            "evidence": "hard plastic with no cushion",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "price",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000007_fa406afb62f0",
+            "evidence": "sweet deal",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "quality",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000007_fa406afb62f0",
+            "evidence": "good quality",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sturdiness",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000007_fa406afb62f0",
+            "evidence": "very sturdy",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "volume",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000008_77516792ad55",
+            "evidence": "not loud",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    ],
+    "top_customer_issues": [
+      {
+        "text": "Non-existent bass",
+        "count": 1
+      },
+      {
+        "text": "Terrible highs",
+        "count": 1
+      },
+      {
+        "text": "Not loud",
+        "count": 1
+      },
+      {
+        "text": "Hooks are pivoted making them uncomfortable and difficult to put on",
+        "count": 1
+      },
+      {
+        "text": "earbuds would not stay in place behind ears",
+        "count": 1
+      },
+      {
+        "text": "ear canals became sore after wearing for a short time",
+        "count": 1
+      },
+      {
+        "text": "hard plastic buds lack cushioning causing discomfort",
+        "count": 1
+      },
+      {
+        "text": "hard rubber rim hurts the inside of the ear after extended use",
+        "count": 1
+      },
+      {
+        "text": "poor sound quality",
+        "count": 1
+      },
+      {
+        "text": "left speaker stopped working after a short period of use",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [
+      {
+        "text": "cushion around the buds",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "parent_asin": "B0023RRNJY",
+    "review_count": 33,
+    "aspects": [
+      {
+        "aspect": "sound quality",
+        "sentiment_counts": {
+          "positive": 18,
+          "negative": 4
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000015_536497f34bd9",
+            "evidence": "The sound of these headphones are awesome",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000016_0866d700c37f",
+            "evidence": "sound quality is simply amazing",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000017_ece26f90ba2f",
+            "evidence": "great sound quality",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "price",
+        "sentiment_counts": {
+          "positive": 6,
+          "neutral": 2,
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000016_0866d700c37f",
+            "evidence": "amazing for the price",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000021_38d243b32e34",
+            "evidence": "at least worth the price",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000022_62e596b6cc3e",
+            "evidence": "construction of the earbuds fits the price. A lot of higher end models are not made as well as these are. The sound definitely does not.",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "bass",
+        "sentiment_counts": {
+          "positive": 7,
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000016_0866d700c37f",
+            "evidence": "bass is. It's even better than I imagined",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000018_9091ca8c1621",
+            "evidence": "bass is deeper and richer",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000022_62e596b6cc3e",
+            "evidence": "bass is nice and strong",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "comfort",
+        "sentiment_counts": {
+          "positive": 7,
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000016_0866d700c37f",
+            "evidence": "silicon is very comfortable even after hours of wear",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000018_9091ca8c1621",
+            "evidence": "worlds more comfortable than the stock ipod earphones",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000021_38d243b32e34",
+            "evidence": "how comfortable they are",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "volume control",
+        "sentiment_counts": {
+          "negative": 4,
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000033_d40a7a691c34",
+            "evidence": "do not like about them is they have the volume control on them",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000037_bdce5f9f5761",
+            "evidence": "Something in the volume control has malfunctioned",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000039_41fee512ee39",
+            "evidence": "volume control slider is surprisingly useful and well-built",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "build quality",
+        "sentiment_counts": {
+          "positive": 4,
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000021_38d243b32e34",
+            "evidence": "feel a lot sturdier -- better insulation on the wires, a more solid feeling chassis",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000029_cc5d4505c946",
+            "evidence": "gratifyingly heavy for their size",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000032_db9982c46c32",
+            "evidence": "Appears good build quality",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "durability",
+        "sentiment_counts": {
+          "positive": 1,
+          "neutral": 1,
+          "negative": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000017_ece26f90ba2f",
+            "evidence": "most durable I have ever owned",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000018_9091ca8c1621",
+            "evidence": "earphones themselves look and feel durable",
+            "sentiment": "neutral"
+          },
+          {
+            "review_id": "ROW_000029_cc5d4505c946",
+            "evidence": "metal housing of the earbud snapped apart at the seam",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "fit",
+        "sentiment_counts": {
+          "negative": 2,
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000018_9091ca8c1621",
+            "evidence": "less than perfect fit",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000022_62e596b6cc3e",
+            "evidence": "silicone tips fit pretty well",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000025_3f20d6fccf02",
+            "evidence": "hard time pushing them into my ear",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "construction",
+        "sentiment_counts": {
+          "negative": 1,
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000015_536497f34bd9",
+            "evidence": "they already cracked open",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000022_62e596b6cc3e",
+            "evidence": "buds themselves seem to be metal, and look pretty good, and feel solid",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000023_9a778ccf5dbe",
+            "evidence": "construction is rock solid",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "noise isolation",
+        "sentiment_counts": {
+          "positive": 3
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000015_536497f34bd9",
+            "evidence": "They block out all background sound",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000024_7c4da330cf7b",
+            "evidence": "do a good job of blocking ambient noise",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000040_7cb53a08933d",
+            "evidence": "noise isolation works well to improve the sound",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "packaging",
+        "sentiment_counts": {
+          "negative": 2,
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000016_0866d700c37f",
+            "evidence": "package I recieved does not come with the foam tips",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000029_cc5d4505c946",
+            "evidence": "the packaging seemed kind of cheap",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000031_fc1c1d6501d4",
+            "evidence": "well packaged",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "shipping",
+        "sentiment_counts": {
+          "negative": 1,
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000027_5130fcb529e1",
+            "evidence": "Shipping was an issue",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000030_8848f864e95e",
+            "evidence": "shipping was very fast",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000046_93e6b68420f4",
+            "evidence": "Quick shipping",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "cable",
+        "sentiment_counts": {
+          "positive": 1,
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000042_2c2a7e511fb5",
+            "evidence": "A braided cable encased in nylon that for the most part was tangle free",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000042_2c2a7e511fb5",
+            "evidence": "the cable was cheap",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "construction quality",
+        "sentiment_counts": {
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000034_ba0404fcd587",
+            "evidence": "The quality of contruction is of the highest quality",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000040_7cb53a08933d",
+            "evidence": "construction is also very high quality withe metal volume adjuster and rubber coated braided cable",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "cord",
+        "sentiment_counts": {
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000022_62e596b6cc3e",
+            "evidence": "chord seems to be rather strong, and does not tangle easily at all",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000023_9a778ccf5dbe",
+            "evidence": "coating on the cord cuts down some of the incident noise",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "ear buds",
+        "sentiment_counts": {
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000019_64f348d9b717",
+            "evidence": "best i have used",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000035_9225740ee1c3",
+            "evidence": "offer 3 different sizes of ear buds",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "noise reduction",
+        "sentiment_counts": {
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000027_5130fcb529e1",
+            "evidence": "exceptional job with the noise reduction",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000029_cc5d4505c946",
+            "evidence": "amount of noise reduction",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "brand recommendation",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000031_fc1c1d6501d4",
+            "evidence": "came highly recommended",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "cable management",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000033_d40a7a691c34",
+            "evidence": "do not have the thing you slide up on them to keep the two ear buds together",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "case",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000018_9091ca8c1621",
+            "evidence": "cool ballistic mylon case",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "color",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000041_9623c12cafb7",
+            "evidence": "more of a dark grey",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "cord noise",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000029_cc5d4505c946",
+            "evidence": "sound of the cord moving around is loud and annoying",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "delivery",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000031_fc1c1d6501d4",
+            "evidence": "arrived in a timely manner",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "earbuds",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000038_a47335b186d2",
+            "evidence": "defective when I received them",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "highs",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000023_9a778ccf5dbe",
+            "evidence": "highs are rich and clear",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "inline volume control",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000023_9a778ccf5dbe",
+            "evidence": "inline volume control is excellent",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "microphone",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000041_9623c12cafb7",
+            "evidence": "mike works well",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "noise-cancellation",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000035_9225740ee1c3",
+            "evidence": "nice noise-cancellation type experience",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "performance",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000045_9641e544c223",
+            "evidence": "Work good",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "product",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000046_93e6b68420f4",
+            "evidence": "Good product",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "running suitability",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000026_fb148db9d798",
+            "evidence": "not for running",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "size",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000030_8848f864e95e",
+            "evidence": "compact",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sound",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000026_fb148db9d798",
+            "evidence": "these have great sound. treble and bass are well balanced.",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sound cancellation switch",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000026_fb148db9d798",
+            "evidence": "sound cancellation switch weighs heavy making this bouncing action that pulls the earbuds loose",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "sound isolation",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000028_00c2652eb647",
+            "evidence": "they definitely do a pretty good job of blocking sound",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "soundstage",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000023_9a778ccf5dbe",
+            "evidence": "soundstage has excellent depth",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "treble",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000039_41fee512ee39",
+            "evidence": "treble could still use a bit of boost",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "value",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000032_db9982c46c32",
+            "evidence": "GREAT value",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "volume balance",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000044_9c255e53aa80",
+            "evidence": "My right earphone is not as loud as the left one",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "volume controller",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000035_9225740ee1c3",
+            "evidence": "I love the volume controller",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "wind performance",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000029_cc5d4505c946",
+            "evidence": "great in the wind",
+            "sentiment": "positive"
+          }
+        ]
+      }
+    ],
+    "top_customer_issues": [
+      {
+        "text": "Headphones cracked open",
+        "count": 1
+      },
+      {
+        "text": "Required super glue to fix",
+        "count": 1
+      },
+      {
+        "text": "package does not come with foam tips",
+        "count": 1
+      },
+      {
+        "text": "body of the Titans are a bit wider, and that may cause light contact on some wearers ears",
+        "count": 1
+      },
+      {
+        "text": "less comfortable than the CX200 Sennheisers",
+        "count": 1
+      },
+      {
+        "text": "bass is sometimes washed out",
+        "count": 1
+      },
+      {
+        "text": "sound is not clean and clear with interference like white noise",
+        "count": 1
+      },
+      {
+        "text": "mediocre sound quality for the rest of the range",
+        "count": 1
+      },
+      {
+        "text": "sensitivity at the low end of the volume control makes them very loud at low settings",
+        "count": 1
+      },
+      {
+        "text": "earbuds kept falling out",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [
+      {
+        "text": "a cord keeper on the volume bar",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "parent_asin": "B002PY7P2K",
+    "review_count": 54,
+    "aspects": [
+      {
+        "aspect": "sound quality",
+        "sentiment_counts": {
+          "positive": 31
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000048_0de2d73b5679",
+            "evidence": "the sound is superb",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000049_51442dfe4af8",
+            "evidence": "The sound is great",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000051_55a72f7ea743",
+            "evidence": "great sound",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "connectivity",
+        "sentiment_counts": {
+          "negative": 10,
+          "positive": 15,
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000049_51442dfe4af8",
+            "evidence": "Most of the time I have to delete the device from the iPhone and allow it to pair as if initially",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000050_fa619b0f7130",
+            "evidence": "Connectivity is Terrible",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000052_94bf42e2f3f6",
+            "evidence": "paired easily with my iPod Touch, T-Mobile G1 and Sony Walkman NWZ-A829",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "fit",
+        "sentiment_counts": {
+          "positive": 11,
+          "negative": 9
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000048_0de2d73b5679",
+            "evidence": "the fit is perfect for me",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000049_51442dfe4af8",
+            "evidence": "the rigid band that connects the ear pieces limits to some extent the flexibility",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000051_55a72f7ea743",
+            "evidence": "extremely comfortable and secure",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "comfort",
+        "sentiment_counts": {
+          "positive": 13
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000049_51442dfe4af8",
+            "evidence": "comfort",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000051_55a72f7ea743",
+            "evidence": "very comfortable",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000056_4fdff733adf9",
+            "evidence": "comfortable enough",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "charging",
+        "sentiment_counts": {
+          "positive": 6,
+          "negative": 3
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000058_0f46a631dc80",
+            "evidence": "This criterion was met nicely.",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000063_8f76065683f4",
+            "evidence": "Charging it took bit of trial and error",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000073_ae73774e68ce",
+            "evidence": "use them while they are plugged into the wall",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "volume control",
+        "sentiment_counts": {
+          "negative": 3,
+          "positive": 4,
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000048_0de2d73b5679",
+            "evidence": "when the volume is set at the lowest setting, it is very loud",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000051_55a72f7ea743",
+            "evidence": "works well",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000054_a39ba984f43b",
+            "evidence": "The slider to control the volume is so unique and not at all hard to get used to",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "controls",
+        "sentiment_counts": {
+          "negative": 2,
+          "positive": 5
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000052_94bf42e2f3f6",
+            "evidence": "volume and track advance controls are rather touchy",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000056_4fdff733adf9",
+            "evidence": "control button works just fine",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000059_0d8752b2fecd",
+            "evidence": "great controls",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "weight",
+        "sentiment_counts": {
+          "positive": 7
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000049_51442dfe4af8",
+            "evidence": "light weight",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000059_0d8752b2fecd",
+            "evidence": "lightwt",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000071_efb955887b58",
+            "evidence": "soooo light weight",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "call quality",
+        "sentiment_counts": {
+          "positive": 6
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000049_51442dfe4af8",
+            "evidence": "that function is so far flawless",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000053_8c842e7bbba7",
+            "evidence": "call quality is very very good",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000054_a39ba984f43b",
+            "evidence": "they can hear me perfectly; and I can hear them perfectly as well",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "price",
+        "sentiment_counts": {
+          "negative": 3,
+          "positive": 3
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000059_0d8752b2fecd",
+            "evidence": "too expensive",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000080_0e20d01c0dca",
+            "evidence": "costs too much, especially for only 8 months of service",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000087_c5c89961c3db",
+            "evidence": "For the cost... comes at too great a risk",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "appearance",
+        "sentiment_counts": {
+          "positive": 5
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000059_0d8752b2fecd",
+            "evidence": "The most elegant looking",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000061_2c2477be4195",
+            "evidence": "very visually stunning",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000077_6a14dcb49ae5",
+            "evidence": "it looks stylish",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "battery life",
+        "sentiment_counts": {
+          "negative": 2,
+          "positive": 3
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000061_2c2477be4195",
+            "evidence": "battery life was not all it was cracked up to be",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000073_ae73774e68ce",
+            "evidence": "battery life exceeds expectations",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000076_bfdc55ed5d6b",
+            "evidence": "Battery life is better than expected as well",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "compatibility",
+        "sentiment_counts": {
+          "negative": 4,
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000059_0d8752b2fecd",
+            "evidence": "only semi-capable",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000061_2c2477be4195",
+            "evidence": "device is not fully functionally with your iPhones",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000068_b48f0341de86",
+            "evidence": "Halo is not compatible with Apple Products",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "hinges",
+        "sentiment_counts": {
+          "negative": 4,
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000052_94bf42e2f3f6",
+            "evidence": "hinges for collapsing the earpiece sections... seem rather cheapish and fragile",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000056_4fdff733adf9",
+            "evidence": "hinges seem solid enough",
+            "sentiment": "neutral"
+          },
+          {
+            "review_id": "ROW_000061_2c2477be4195",
+            "evidence": "felt very flimsy and kept bending the wrong direction",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "microphone",
+        "sentiment_counts": {
+          "positive": 3,
+          "negative": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000059_0d8752b2fecd",
+            "evidence": "like the sound of the microphone",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000060_859c2d9c67e8",
+            "evidence": "has dual microphone so you can be heard without effort",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000061_2c2477be4195",
+            "evidence": "noise canceling microphone actually was the opposite",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "design",
+        "sentiment_counts": {
+          "positive": 4
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000052_94bf42e2f3f6",
+            "evidence": "minimalist slick-looking LITTLE headset",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000054_a39ba984f43b",
+            "evidence": "So light and small when folded",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000089_a398efb47bc1",
+            "evidence": "fashionable",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "volume",
+        "sentiment_counts": {
+          "positive": 3,
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000053_8c842e7bbba7",
+            "evidence": "not had any issues with volume",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000058_0f46a631dc80",
+            "evidence": "Its volume is great.",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000059_0d8752b2fecd",
+            "evidence": "loud",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "battery",
+        "sentiment_counts": {
+          "negative": 2,
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000060_859c2d9c67e8",
+            "evidence": "kept saying the battery was dead and shutting off",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000065_074ec08ca3a1",
+            "evidence": "the battery held up well",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000079_4addd4b7f0ce",
+            "evidence": "my unit had a defective battery",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "functionality",
+        "sentiment_counts": {
+          "positive": 1,
+          "negative": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000073_ae73774e68ce",
+            "evidence": "functionality is superb",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000078_66ffcc0308bb",
+            "evidence": "didn't work right out of the box",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000084_2b46c1813d43",
+            "evidence": "Headset did not work",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "pairing",
+        "sentiment_counts": {
+          "positive": 2,
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000051_55a72f7ea743",
+            "evidence": "Pairing was easy",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000098_69cb79a6094e",
+            "evidence": "difficulty pairing this device the first time",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000100_28a5df9caca6",
+            "evidence": "paired in a matter of seconds",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "audio quality",
+        "sentiment_counts": {
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000062_545857114c90",
+            "evidence": "audio quality was acceptable, both for calls and music",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000074_c6be880679a9",
+            "evidence": "Audio quality is excellent.",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "condition",
+        "sentiment_counts": {
+          "negative": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000079_4addd4b7f0ce",
+            "evidence": "came with a tag thas says \"refirb. w\"",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000082_926658ac6546",
+            "evidence": "Product was not 'NEW' as claimed",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "customer support",
+        "sentiment_counts": {
+          "negative": 1,
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000050_fa619b0f7130",
+            "evidence": "support has yet to respond",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000051_55a72f7ea743",
+            "evidence": "Jabra tech answered the call immediately and provided excellent help",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "ease of use",
+        "sentiment_counts": {
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000075_8f450976fd0e",
+            "evidence": "easy to use",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000093_6ce3821811a8",
+            "evidence": "am delighted at the ease of use",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "lining",
+        "sentiment_counts": {
+          "negative": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000062_545857114c90",
+            "evidence": "synthetic velour that traps lint and fuzz admirably, but doesn't add to the comfort",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000093_6ce3821811a8",
+            "evidence": "The lining is not ideal for workouts",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "manual",
+        "sentiment_counts": {
+          "negative": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000065_074ec08ca3a1",
+            "evidence": "The owners manual is weak on instructions.",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000082_926658ac6546",
+            "evidence": "user guide looked like a cheap fake",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "music control",
+        "sentiment_counts": {
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000054_a39ba984f43b",
+            "evidence": "The one button does indeed end and accept calls and stop the music",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000095_9ffcd021f79c",
+            "evidence": "Pausing songs was easy to control from the button on the side",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "noise cancellation",
+        "sentiment_counts": {
+          "neutral": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000092_22b2a4a10299",
+            "evidence": "they are not noise cancelling",
+            "sentiment": "neutral"
+          },
+          {
+            "review_id": "ROW_000095_9ffcd021f79c",
+            "evidence": "It doesn't cancel out all noise",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "power mechanism",
+        "sentiment_counts": {
+          "negative": 1,
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000085_4b3309a65f1a",
+            "evidence": "turned on and off by snapping plastic on plastic",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000086_27abc6f09c4b",
+            "evidence": "turn on by locking the headphones in open position, turn off when you close them",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "size",
+        "sentiment_counts": {
+          "positive": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000089_a398efb47bc1",
+            "evidence": "bulkier, heavier... compare to Jabra Halo",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000099_bfbf76096974",
+            "evidence": "small",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "usability",
+        "sentiment_counts": {
+          "positive": 1,
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000090_d0ce9b842902",
+            "evidence": "is easey to use",
+            "sentiment": "positive"
+          },
+          {
+            "review_id": "ROW_000098_69cb79a6094e",
+            "evidence": "how difficult it was to figure out",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "warmth",
+        "sentiment_counts": {
+          "neutral": 2
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000051_55a72f7ea743",
+            "evidence": "concern is that it will be too warm",
+            "sentiment": "neutral"
+          },
+          {
+            "review_id": "ROW_000101_3933221aa580",
+            "evidence": "feels pretty warm",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "air travel",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000093_6ce3821811a8",
+            "evidence": "Jabras are really great for air travel",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "ambient noise blocking",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000064_21062b3a988a",
+            "evidence": "do a reasonable job of blocking out ambient 'office noise'",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "awareness of surroundings",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000056_4fdff733adf9",
+            "evidence": "I can still hear the outside world which is what I want",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "background noise",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000074_c6be880679a9",
+            "evidence": "less background noise and static now",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "bass",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000077_6a14dcb49ae5",
+            "evidence": "The bass is quite good after customizing Media Player enhancement settings",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "battery display",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000100_28a5df9caca6",
+            "evidence": "iPhone 4 displays the headset's battery life",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "battery replacement",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000087_c5c89961c3db",
+            "evidence": "battery can't be replaced",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "bluetooth interference",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000095_9ffcd021f79c",
+            "evidence": "every 30 seconds the headset would stutter",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "bluetooth signal",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000059_0d8752b2fecd",
+            "evidence": "bluetooth signal as strong as the Sonys",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "build quality",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000094_5914c44c4de3",
+            "evidence": "small red wire that was not properly soldered",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "call controls",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000058_0f46a631dc80",
+            "evidence": "was not able to control the phone from the multi-use button",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "call switching",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000057_b21f723ddfcc",
+            "evidence": "automatically switches to the phone, and then back to the iPod",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "charger port",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000095_9ffcd021f79c",
+            "evidence": "standard micro USB charger is loose",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "charging cable",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000076_bfdc55ed5d6b",
+            "evidence": "worlds smallest charging cable ever",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "clamping force",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000088_d8568be856df",
+            "evidence": "do not clamp as tightly to my head as I might like",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "compatibility with glasses",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000077_6a14dcb49ae5",
+            "evidence": "can even wear glasses with it",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "connection stability",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000051_55a72f7ea743",
+            "evidence": "without any interruption",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "corded option",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000059_0d8752b2fecd",
+            "evidence": "handy to have the corded option",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "customer service",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000100_28a5df9caca6",
+            "evidence": "Jabra's excellent customer service",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "distortion",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000077_6a14dcb49ae5",
+            "evidence": "gets a little distorted at high volumes",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "durability",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000094_5914c44c4de3",
+            "evidence": "It broke",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "ear comfort",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000057_b21f723ddfcc",
+            "evidence": "have always caused me ear-aches... I love this headset!!",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "ear design",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000058_0f46a631dc80",
+            "evidence": "The ear pieces definitely do NOT extend into the ear.",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "ear foam/temperature",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000100_28a5df9caca6",
+            "evidence": "foam insulates your ears and does get warm/hot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "earpieces",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000062_545857114c90",
+            "evidence": "earpieces do not pivot or swivel at all... constantly slide off",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "exercising",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000058_0f46a631dc80",
+            "evidence": "The headset worked fine during my exercise session",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "feedback",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000077_6a14dcb49ae5",
+            "evidence": "occasionally hearing feedback",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "folding",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000093_6ce3821811a8",
+            "evidence": "folding is very useful for quick stow",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "folding configuration",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000062_545857114c90",
+            "evidence": "folding configuration provides no significant space savings",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "folding hinges",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000065_074ec08ca3a1",
+            "evidence": "feel like it is going to break",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "fragility",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000080_0e20d01c0dca",
+            "evidence": "Product is too fragile",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "hinge design",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000077_6a14dcb49ae5",
+            "evidence": "the hinge thing is sort of stupid on Jabra's part",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "indicator light",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000084_2b46c1813d43",
+            "evidence": "The LED light indicator would also not work as described in the JABRA manual",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "indicator lights",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000080_0e20d01c0dca",
+            "evidence": "indicator lights do not do what the manual says",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "inner headphone lining",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000064_21062b3a988a",
+            "evidence": "The inner headphone lining does tend to grab a bit of fuzz",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "installation",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000070_8fb4d6c04460",
+            "evidence": "very easy to install",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "instructions",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000088_d8568be856df",
+            "evidence": "The instructions are very inadequate",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "locking mechanism",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000063_8f76065683f4",
+            "evidence": "locking mechanism is clever and looks like it should last, but only time will tell",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "loudness",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000051_55a72f7ea743",
+            "evidence": "sufficient loudness",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "material",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000056_4fdff733adf9",
+            "evidence": "got a little warm at times",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "materials",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000060_859c2d9c67e8",
+            "evidence": "lined with crushed velvet on the inside, which can get a little hot",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "media player control",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000074_c6be880679a9",
+            "evidence": "controls the media player from the headset with no issues",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "microphone quality",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000074_c6be880679a9",
+            "evidence": "Other players can hear me very well",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "multipoint connectivity",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000099_bfbf76096974",
+            "evidence": "never worked well",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "noise canceling",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000098_69cb79a6094e",
+            "evidence": "the noise canceling is good",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "on/off mechanism",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000095_9ffcd021f79c",
+            "evidence": "not as easy to turn on/off as I thought",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "overall performance",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000053_8c842e7bbba7",
+            "evidence": "Works perfectly so-far",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "packaging",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000082_926658ac6546",
+            "evidence": "came in a zip-lock bag inside a plain white box",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "phone calls",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000075_8f450976fd0e",
+            "evidence": "use them to talk on the phone",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "power",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000096_f5becdea7798",
+            "evidence": "a little glitchy with turning on and off",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "power switch",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000062_545857114c90",
+            "evidence": "power switch is integrated into the headband hinge... feels rather insubstantial and twice collapsed",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "rechargeable design",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000052_94bf42e2f3f6",
+            "evidence": "rechargeable design is a definite plus",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "reliability",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000085_4b3309a65f1a",
+            "evidence": "The set I kept has stopped working.",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "seller service",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000084_2b46c1813d43",
+            "evidence": "concerns however were addressed promptly by the seller",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "setup",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000072_231d11e3053a",
+            "evidence": "very easy to set up for my 3gs iPhone",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "shipping",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000096_f5becdea7798",
+            "evidence": "not too happy with the shipping from Amazon",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "shut off feature",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000076_bfdc55ed5d6b",
+            "evidence": "shut off feature which requires you to snap and pull on the headset. Immediately it feels against nature",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "sound controls",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000066_32b3b3409e87",
+            "evidence": "sound controls poorly designed",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "sound leakage",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000077_6a14dcb49ae5",
+            "evidence": "even at lower volumes the people around you will be able to hear whatever you're listening to",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "sound quality for audio books",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000058_0f46a631dc80",
+            "evidence": "The sound was great while listening to audio books.",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sound quality for telephone calls",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000058_0f46a631dc80",
+            "evidence": "The sound during telephone conversations was very bad",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "sweat resistance",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000098_69cb79a6094e",
+            "evidence": "It doesn't do very well when I work up a sweat, but the Halo device fares better than others",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "temperature",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000055_1ecbb5c65383",
+            "evidence": "make my head sweaty",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "touch controls",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000088_d8568be856df",
+            "evidence": "The \"touch controls\" on the right side are a bit difficult at first",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "touch sensors",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000076_bfdc55ed5d6b",
+            "evidence": "the touch sensors work fine",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "touch volume controls",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000077_6a14dcb49ae5",
+            "evidence": "the touch volume controls work fine for me",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "touch volume slider",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000064_21062b3a988a",
+            "evidence": "The touch volume slider is convenient and reasonably sensitive",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "value",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000073_ae73774e68ce",
+            "evidence": "well worth every penny",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "voice quality",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000064_21062b3a988a",
+            "evidence": "folks on the other end of my VoIP calls have reported normal voice quality",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "volume level",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000051_55a72f7ea743",
+            "evidence": "lowest volume may not be low enough for some",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "warranty",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000082_926658ac6546",
+            "evidence": "warranty insert was titled 'LIMITED WARRANTY REFURBISHED PRODUCTS'",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "wired usage",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000055_1ecbb5c65383",
+            "evidence": "able to use them without the Bluetooth functioning",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "wireless functionality",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000049_51442dfe4af8",
+            "evidence": "wireless functionality makes this product a winner",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "wireless range",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000057_b21f723ddfcc",
+            "evidence": "All wireless, with plenty of range",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "wireline attachment",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "ROW_000093_6ce3821811a8",
+            "evidence": "crackle when using the wireline attachment",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    ],
+    "top_customer_issues": [
+      {
+        "text": "lowest volume setting is too loud to fall asleep",
+        "count": 1
+      },
+      {
+        "text": "Must delete device from iPhone and re-pair as if initially most of the time",
+        "count": 1
+      },
+      {
+        "text": "Rigid band connecting ear pieces limits flexibility",
+        "count": 1
+      },
+      {
+        "text": "Headset rarely connects to macs or iphone",
+        "count": 1
+      },
+      {
+        "text": "Customer support has not responded",
+        "count": 1
+      },
+      {
+        "text": "pairing initially failed because headset sides were not locked into place",
+        "count": 1
+      },
+      {
+        "text": "unable to use the headset to move to the next selection on an iPhone",
+        "count": 1
+      },
+      {
+        "text": "Headset does not fit large heads properly without manually holding earpieces in place",
+        "count": 1
+      },
+      {
+        "text": "Volume and track advance controls are touchy with a learning curve",
+        "count": 1
+      },
+      {
+        "text": "Hinges for collapsing earpieces seem cheap and fragile, and folding is required to shut the device off",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": [
+      {
+        "text": "make the bluetooth signal as strong as the Sonys",
+        "count": 1
+      },
+      {
+        "text": "Hardware dial or rocker switch for volume control",
+        "count": 1
+      },
+      {
+        "text": "make the next version of the Halo have heavier bass",
+        "count": 1
+      },
+      {
+        "text": "remove or change the hinge design in the next version",
+        "count": 1
+      }
+    ]
+  }
+]

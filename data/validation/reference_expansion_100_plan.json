@@ -1,0 +1,30 @@
+{
+  "status": "CONFIRMED_BY_PROJECT_USER",
+  "selection_method": "Deterministic greedy diversity selection across parent product and rating; seed=42.",
+  "target_reference_set": 100,
+  "existing_confirmed": {
+    "no_issue": 20,
+    "issue_present": 14,
+    "total": 34
+  },
+  "draft_additions": {
+    "no_issue": 30,
+    "issue_present": 36,
+    "total": 66
+  },
+  "after_confirmation": {
+    "no_issue": 50,
+    "issue_present": 50,
+    "total": 100
+  },
+  "available_successful_extractions": 878,
+  "draft_product_count": 15,
+  "draft_rating_distribution": {
+    "1.0": 8,
+    "2.0": 8,
+    "3.0": 16,
+    "4.0": 16,
+    "5.0": 18
+  },
+  "confirmation_note": "All 66 expansion annotations were reviewed and confirmed by the project user on 2026-10-25."
+}

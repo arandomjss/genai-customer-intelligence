@@ -1,0 +1,252 @@
+[
+  {
+    "parent_asin": "B003BT6BM8",
+    "review_count": 1,
+    "aspects": [
+      {
+        "aspect": "fit",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0003",
+            "evidence": "stayed in place",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sound quality",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0003",
+            "evidence": "sound is good",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sweat resistance",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0003",
+            "evidence": "sweat didn't seem to bother their performance",
+            "sentiment": "neutral"
+          }
+        ]
+      }
+    ],
+    "top_customer_issues": [],
+    "top_feature_requests": []
+  },
+  {
+    "parent_asin": "B01J9PO4RG",
+    "review_count": 1,
+    "aspects": [],
+    "top_customer_issues": [],
+    "top_feature_requests": []
+  },
+  {
+    "parent_asin": "B07DHYFJFR",
+    "review_count": 1,
+    "aspects": [],
+    "top_customer_issues": [],
+    "top_feature_requests": []
+  },
+  {
+    "parent_asin": "B07SN2ZQMT",
+    "review_count": 1,
+    "aspects": [
+      {
+        "aspect": "charging",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0004",
+            "evidence": "one stopped charging after 6 months",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "connectivity",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0004",
+            "evidence": "started cutting out unless my phone was inches from my ear",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "fit",
+        "sentiment_counts": {
+          "negative": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0004",
+            "evidence": "sometimes fell out of my ears",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      {
+        "aspect": "microphone",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0004",
+            "evidence": "the mic was good",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "seller",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0004",
+            "evidence": "Seller seems nice at least",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sound quality",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0004",
+            "evidence": "They sounded good",
+            "sentiment": "positive"
+          }
+        ]
+      }
+    ],
+    "top_customer_issues": [
+      {
+        "text": "broke twice within 8 months",
+        "count": 1
+      },
+      {
+        "text": "fell out of ears",
+        "count": 1
+      },
+      {
+        "text": "one stopped charging after 6 months",
+        "count": 1
+      },
+      {
+        "text": "started cutting out unless phone was inches away",
+        "count": 1
+      }
+    ],
+    "top_feature_requests": []
+  },
+  {
+    "parent_asin": "B0BN3PX3L4",
+    "review_count": 1,
+    "aspects": [
+      {
+        "aspect": "battery display",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0002",
+            "evidence": "give me battery life display screen",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "connectivity",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0002",
+            "evidence": "Pair easily",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "durability",
+        "sentiment_counts": {
+          "neutral": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0002",
+            "evidence": "durability looks good",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "aspect": "fit",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0002",
+            "evidence": "fit behind your ears they will not fall out",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "sound quality",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0002",
+            "evidence": "Nice sound",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "aspect": "visuals",
+        "sentiment_counts": {
+          "positive": 1
+        },
+        "evidence": [
+          {
+            "review_id": "TEST_0002",
+            "evidence": "Love the visuals",
+            "sentiment": "positive"
+          }
+        ]
+      }
+    ],
+    "top_customer_issues": [],
+    "top_feature_requests": []
+  }
+]

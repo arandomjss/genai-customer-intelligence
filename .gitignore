@@ -1,0 +1,47 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python environments, caches, and test output
+.venv/
+.gai_run_env/
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter and operating-system files
+.ipynb_checkpoints/
+.jupyter/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Raw source data is large and can be downloaded separately.
+data/raw/
+
+# Regenerable data-preparation intermediates and local extraction tests.
+data/interim/
+data/processed/extraction_test/
+
+# Temporary annotation work and local execution logs.
+data/validation/*_draft.jsonl
+data/validation/*_backup.jsonl
+data/validation/*_stdout.log
+data/validation/*_stderr.log
+
+# Locally generated deliverables and build artefacts.
+deliverables/
+build/
+dist/
+*.tmp
+~$*
+
+# Local review copy; project documentation in docs/ remains trackable.
+_report_check_copy.docx

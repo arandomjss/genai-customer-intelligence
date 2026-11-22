@@ -1,0 +1,1279 @@
+[
+  {
+    "parent_asin": "B0011FOMV6",
+    "review_count": 5,
+    "summary": "Based on 5 valid extracted reviews, the most frequently positive aspects are sound quality, noise cancellation, comfort; the most frequently negative aspects are comfort, noise cancellation, left earpiece.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on comfort",
+        "aspect": "comfort",
+        "negative_mentions": 2,
+        "negative_review_count": 1,
+        "review_count": 5,
+        "support_rate": 0.2,
+        "evidence": [
+          {
+            "review_id": "ROW_000005_5bdc33045424",
+            "original_aspect": "temperature",
+            "evidence": "It is too warm for my ears",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review ergonomics, materials, heat buildup, and extended-wear comfort.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on left earpiece",
+        "aspect": "left earpiece",
+        "negative_mentions": 1,
+        "negative_review_count": 1,
+        "review_count": 5,
+        "support_rate": 0.2,
+        "evidence": [
+          {
+            "review_id": "ROW_000003_b6f8aacbbd85",
+            "original_aspect": "left earpiece",
+            "evidence": "I could hear a radio station playing lightly in the left earpiece",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported left earpiece concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on noise cancellation",
+        "aspect": "noise cancellation",
+        "negative_mentions": 1,
+        "negative_review_count": 1,
+        "review_count": 5,
+        "support_rate": 0.2,
+        "evidence": [],
+        "suggested_action": "Investigate noise-control performance and any reported artifacts.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B0014JFXSK",
+    "review_count": 8,
+    "summary": "Based on 8 valid extracted reviews, the most frequently positive aspects are sound quality, build quality, price; the most frequently negative aspects are durability, sound quality, fit.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on durability",
+        "aspect": "durability",
+        "negative_mentions": 3,
+        "negative_review_count": 3,
+        "review_count": 8,
+        "support_rate": 0.375,
+        "evidence": [
+          {
+            "review_id": "ROW_000011_73335681d4ec",
+            "original_aspect": "durability",
+            "evidence": "couldn't get sound out of left speaker, loud crackling out of the right speaker",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000012_918f3c6387e1",
+            "original_aspect": "durability",
+            "evidence": "Both of our headphones broke after a short amount of time",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000013_daac7a9ebbe1",
+            "original_aspect": "durability",
+            "evidence": "durability seems to be an issue",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported durability concern and validate it with targeted product testing.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on comfort",
+        "aspect": "comfort",
+        "negative_mentions": 2,
+        "negative_review_count": 2,
+        "review_count": 8,
+        "support_rate": 0.25,
+        "evidence": [
+          {
+            "review_id": "ROW_000010_f1c9957f7500",
+            "original_aspect": "comfort",
+            "evidence": "my ear canals were pretty sore",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000011_73335681d4ec",
+            "original_aspect": "comfort",
+            "evidence": "hard rubber rim around the actual speakers hurt the inside of your ear",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review ergonomics, materials, heat buildup, and extended-wear comfort.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on fit",
+        "aspect": "fit",
+        "negative_mentions": 2,
+        "negative_review_count": 2,
+        "review_count": 8,
+        "support_rate": 0.25,
+        "evidence": [
+          {
+            "review_id": "ROW_000008_77516792ad55",
+            "original_aspect": "fit",
+            "evidence": "hooks are pivoted making them a pain in the ass to put on my ear comfortably",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000009_907c8750e1cb",
+            "original_aspect": "fit",
+            "evidence": "would not stay in place behind my ears",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review fit geometry and provide clearer sizing or fit guidance.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B0023RRNJY",
+    "review_count": 33,
+    "summary": "Based on 33 valid extracted reviews, the most frequently positive aspects are sound quality, build quality, noise cancellation; the most frequently negative aspects are volume control, sound quality, packaging.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on sound quality",
+        "aspect": "sound quality",
+        "negative_mentions": 4,
+        "negative_review_count": 4,
+        "review_count": 33,
+        "support_rate": 0.121,
+        "evidence": [],
+        "suggested_action": "Review acoustic tuning and quality-control testing for the reported sound issue.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on volume control",
+        "aspect": "volume control",
+        "negative_mentions": 4,
+        "negative_review_count": 4,
+        "review_count": 33,
+        "support_rate": 0.121,
+        "evidence": [
+          {
+            "review_id": "ROW_000033_d40a7a691c34",
+            "original_aspect": "volume control",
+            "evidence": "do not like about them is they have the volume control on them",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review control design, responsiveness, and volume-range behavior.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 2,
+        "negative_review_count": 2,
+        "review_count": 33,
+        "support_rate": 0.061,
+        "evidence": [
+          {
+            "review_id": "ROW_000015_536497f34bd9",
+            "original_aspect": "construction",
+            "evidence": "they already cracked open",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "low",
+        "confidence_rationale": "This issue appears in few available reviews and should be monitored before a major intervention.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B002PY7P2K",
+    "review_count": 100,
+    "summary": "Based on 100 valid extracted reviews, the most frequently positive aspects are sound quality, connectivity, fit; the most frequently negative aspects are connectivity, fit, build quality.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on connectivity",
+        "aspect": "connectivity",
+        "negative_mentions": 21,
+        "negative_review_count": 19,
+        "review_count": 100,
+        "support_rate": 0.19,
+        "evidence": [
+          {
+            "review_id": "ROW_000049_51442dfe4af8",
+            "original_aspect": "connectivity",
+            "evidence": "Most of the time I have to delete the device from the iPhone and allow it to pair as if initially",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000050_fa619b0f7130",
+            "original_aspect": "connectivity",
+            "evidence": "Connectivity is Terrible",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate pairing, connection stability, and compatibility across common devices.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on fit",
+        "aspect": "fit",
+        "negative_mentions": 13,
+        "negative_review_count": 13,
+        "review_count": 100,
+        "support_rate": 0.13,
+        "evidence": [
+          {
+            "review_id": "ROW_000049_51442dfe4af8",
+            "original_aspect": "fit",
+            "evidence": "the rigid band that connects the ear pieces limits to some extent the flexibility",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review fit geometry and provide clearer sizing or fit guidance.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 9,
+        "negative_review_count": 9,
+        "review_count": 100,
+        "support_rate": 0.09,
+        "evidence": [
+          {
+            "review_id": "ROW_000080_0e20d01c0dca",
+            "original_aspect": "fragility",
+            "evidence": "Product is too fragile",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B0031I9KS6",
+    "review_count": 1,
+    "summary": "Based on 1 valid extracted reviews, the most frequently positive aspects are sound quality; the most frequently negative aspects are no repeated negative aspect.",
+    "recommendations": []
+  },
+  {
+    "parent_asin": "B003BT6BM8",
+    "review_count": 100,
+    "summary": "Based on 100 valid extracted reviews, the most frequently positive aspects are sound quality, fit, comfort; the most frequently negative aspects are fit, sound quality, durability.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on fit",
+        "aspect": "fit",
+        "negative_mentions": 22,
+        "negative_review_count": 22,
+        "review_count": 100,
+        "support_rate": 0.22,
+        "evidence": [
+          {
+            "review_id": "ROW_000151_cfba556510bc",
+            "original_aspect": "fit",
+            "evidence": "they do not stay put at all!",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review fit geometry and provide clearer sizing or fit guidance.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on sound quality",
+        "aspect": "sound quality",
+        "negative_mentions": 14,
+        "negative_review_count": 14,
+        "review_count": 100,
+        "support_rate": 0.14,
+        "evidence": [],
+        "suggested_action": "Review acoustic tuning and quality-control testing for the reported sound issue.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on durability",
+        "aspect": "durability",
+        "negative_mentions": 13,
+        "negative_review_count": 13,
+        "review_count": 100,
+        "support_rate": 0.13,
+        "evidence": [
+          {
+            "review_id": "ROW_000162_e79a893886cb",
+            "original_aspect": "durability",
+            "evidence": "only seem to last six months",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported durability concern and validate it with targeted product testing.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B005REY370",
+    "review_count": 69,
+    "summary": "Based on 69 valid extracted reviews, the most frequently positive aspects are price, functionality, fit; the most frequently negative aspects are fit, build quality, size.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on fit",
+        "aspect": "fit",
+        "negative_mentions": 17,
+        "negative_review_count": 17,
+        "review_count": 69,
+        "support_rate": 0.246,
+        "evidence": [
+          {
+            "review_id": "ROW_000251_525a92f9321b",
+            "original_aspect": "fit",
+            "evidence": "doesn't fit correctly",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000254_cd1f6fc8e631",
+            "original_aspect": "fit",
+            "evidence": "Didn't fit.",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review fit geometry and provide clearer sizing or fit guidance.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 5,
+        "negative_review_count": 5,
+        "review_count": 69,
+        "support_rate": 0.072,
+        "evidence": [
+          {
+            "review_id": "ROW_000259_6c350dbfb004",
+            "original_aspect": "build quality",
+            "evidence": "Flimsy",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000268_f32556a3630e",
+            "original_aspect": "build quality",
+            "evidence": "little flimsy",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000279_63dc8fecf754",
+            "original_aspect": "build quality",
+            "evidence": "Flimsy flimsy and even more flimsy",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on attachment",
+        "aspect": "attachment",
+        "negative_mentions": 3,
+        "negative_review_count": 3,
+        "review_count": 69,
+        "support_rate": 0.043,
+        "evidence": [
+          {
+            "review_id": "ROW_000253_902b51608364",
+            "original_aspect": "attachment",
+            "evidence": "slightest movement pops them off the headset",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000260_325b99e04432",
+            "original_aspect": "attachment",
+            "evidence": "slightest pressure will pop it off",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000291_3945aa493dc1",
+            "original_aspect": "attachment",
+            "evidence": "Would be great if they attached better",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported attachment concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B005VOYA42",
+    "review_count": 1,
+    "summary": "Based on 1 valid extracted reviews, the most frequently positive aspects are sound quality, buttons; the most frequently negative aspects are no repeated negative aspect.",
+    "recommendations": []
+  },
+  {
+    "parent_asin": "B007GN1FC6",
+    "review_count": 43,
+    "summary": "Based on 43 valid extracted reviews, the most frequently positive aspects are fit, sound quality, price; the most frequently negative aspects are build quality, durability, fit.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 6,
+        "negative_review_count": 6,
+        "review_count": 43,
+        "support_rate": 0.14,
+        "evidence": [
+          {
+            "review_id": "ROW_000324_5b2a4a521acc",
+            "original_aspect": "build quality",
+            "evidence": "didn't last 3 months before they fell apart",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000339_79eb7153891e",
+            "original_aspect": "build quality",
+            "evidence": "speaker has fallen out of the casing",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on durability",
+        "aspect": "durability",
+        "negative_mentions": 5,
+        "negative_review_count": 5,
+        "review_count": 43,
+        "support_rate": 0.116,
+        "evidence": [
+          {
+            "review_id": "ROW_000339_79eb7153891e",
+            "original_aspect": "durability",
+            "evidence": "broke on 9/27",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000341_d6103da6d71f",
+            "original_aspect": "durability",
+            "evidence": "it will break quickly",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported durability concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on fit",
+        "aspect": "fit",
+        "negative_mentions": 4,
+        "negative_review_count": 4,
+        "review_count": 43,
+        "support_rate": 0.093,
+        "evidence": [
+          {
+            "review_id": "ROW_000325_8b6cbde4f4b8",
+            "original_aspect": "fit",
+            "evidence": "they would stay in my ears better",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review fit geometry and provide clearer sizing or fit guidance.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B009IKCFP6",
+    "review_count": 11,
+    "summary": "Based on 11 valid extracted reviews, the most frequently positive aspects are sound quality, build quality, bass; the most frequently negative aspects are fit, sound quality, controls.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on fit",
+        "aspect": "fit",
+        "negative_mentions": 2,
+        "negative_review_count": 2,
+        "review_count": 11,
+        "support_rate": 0.182,
+        "evidence": [
+          {
+            "review_id": "ROW_000363_0cb04cd7b68b",
+            "original_aspect": "fit",
+            "evidence": "fit is lacking",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000371_3c2ed099b445",
+            "original_aspect": "fit",
+            "evidence": "they just fall out a lot",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review fit geometry and provide clearer sizing or fit guidance.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on audio performance",
+        "aspect": "audio performance",
+        "negative_mentions": 1,
+        "negative_review_count": 1,
+        "review_count": 11,
+        "support_rate": 0.091,
+        "evidence": [
+          {
+            "review_id": "ROW_000365_023607546fb7",
+            "original_aspect": "audio performance",
+            "evidence": "somewhat poor performance somewhere on the 5k-10k range",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported audio performance concern and validate it with targeted product testing.",
+        "priority": "low",
+        "confidence_rationale": "This issue appears in few available reviews and should be monitored before a major intervention.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on bass response",
+        "aspect": "bass response",
+        "negative_mentions": 1,
+        "negative_review_count": 1,
+        "review_count": 11,
+        "support_rate": 0.091,
+        "evidence": [
+          {
+            "review_id": "ROW_000370_93c5a6f60d1e",
+            "original_aspect": "bass response",
+            "evidence": "not enough bass response for my taste",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported bass response concern and validate it with targeted product testing.",
+        "priority": "low",
+        "confidence_rationale": "This issue appears in few available reviews and should be monitored before a major intervention.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B00E1CS8QG",
+    "review_count": 99,
+    "summary": "Based on 99 valid extracted reviews, the most frequently positive aspects are bass, sound quality, price; the most frequently negative aspects are bass, sound quality, build quality.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on bass",
+        "aspect": "bass",
+        "negative_mentions": 5,
+        "negative_review_count": 5,
+        "review_count": 99,
+        "support_rate": 0.051,
+        "evidence": [],
+        "suggested_action": "Investigate the reported bass concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 4,
+        "negative_review_count": 4,
+        "review_count": 99,
+        "support_rate": 0.04,
+        "evidence": [
+          {
+            "review_id": "ROW_000393_dad8984af9f8",
+            "original_aspect": "material",
+            "evidence": "cheap plastic it's made of",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on sound quality",
+        "aspect": "sound quality",
+        "negative_mentions": 4,
+        "negative_review_count": 4,
+        "review_count": 99,
+        "support_rate": 0.04,
+        "evidence": [],
+        "suggested_action": "Review acoustic tuning and quality-control testing for the reported sound issue.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B00JFHDJ5W",
+    "review_count": 71,
+    "summary": "Based on 71 valid extracted reviews, the most frequently positive aspects are sound quality, bass, price; the most frequently negative aspects are bass, sound quality, build quality.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on bass",
+        "aspect": "bass",
+        "negative_mentions": 3,
+        "negative_review_count": 3,
+        "review_count": 71,
+        "support_rate": 0.042,
+        "evidence": [],
+        "suggested_action": "Investigate the reported bass concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on battery life",
+        "aspect": "battery life",
+        "negative_mentions": 2,
+        "negative_review_count": 2,
+        "review_count": 71,
+        "support_rate": 0.028,
+        "evidence": [
+          {
+            "review_id": "ROW_000509_04fa69ae7aa2",
+            "original_aspect": "battery",
+            "evidence": "not a fan of needing a battery",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate battery capacity, power management, and charge-cycle testing.",
+        "priority": "low",
+        "confidence_rationale": "This issue appears in few available reviews and should be monitored before a major intervention.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 2,
+        "negative_review_count": 2,
+        "review_count": 71,
+        "support_rate": 0.028,
+        "evidence": [
+          {
+            "review_id": "ROW_000475_b25de18b389b",
+            "original_aspect": "build quality",
+            "evidence": "build quality ain't very good",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000534_8d3e76b1ead5",
+            "original_aspect": "build quality",
+            "evidence": "become cheap plastic trash",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "low",
+        "confidence_rationale": "This issue appears in few available reviews and should be monitored before a major intervention.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B00S5JIP0U",
+    "review_count": 100,
+    "summary": "Based on 100 valid extracted reviews, the most frequently positive aspects are sound quality, price, fit; the most frequently negative aspects are durability, build quality, sound quality.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on durability",
+        "aspect": "durability",
+        "negative_mentions": 17,
+        "negative_review_count": 16,
+        "review_count": 100,
+        "support_rate": 0.16,
+        "evidence": [
+          {
+            "review_id": "ROW_000546_6ce5047702fc",
+            "original_aspect": "durability",
+            "evidence": "Worked great; for 5 weeks",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000549_6df556f61666",
+            "original_aspect": "durability",
+            "evidence": "Didn't last a month",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000562_5f49f2caa85c",
+            "original_aspect": "durability",
+            "evidence": "didn't last two months",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported durability concern and validate it with targeted product testing.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 12,
+        "negative_review_count": 11,
+        "review_count": 100,
+        "support_rate": 0.11,
+        "evidence": [
+          {
+            "review_id": "ROW_000562_5f49f2caa85c",
+            "original_aspect": "build quality",
+            "evidence": "one bud packs in",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000566_a1dcf5b454d7",
+            "original_aspect": "quality",
+            "evidence": "poor quality of these headphones",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on sound quality",
+        "aspect": "sound quality",
+        "negative_mentions": 6,
+        "negative_review_count": 6,
+        "review_count": 100,
+        "support_rate": 0.06,
+        "evidence": [
+          {
+            "review_id": "ROW_000545_854d7976d010",
+            "original_aspect": "audio quality",
+            "evidence": "Terrible audio quality",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000546_6ce5047702fc",
+            "original_aspect": "sound quality",
+            "evidence": "almost no sound from the left speaker",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review acoustic tuning and quality-control testing for the reported sound issue.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B00SC80YFI",
+    "review_count": 100,
+    "summary": "Based on 100 valid extracted reviews, the most frequently positive aspects are sound quality, comfort, build quality; the most frequently negative aspects are comfort, build quality, bass.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on comfort",
+        "aspect": "comfort",
+        "negative_mentions": 5,
+        "negative_review_count": 5,
+        "review_count": 100,
+        "support_rate": 0.05,
+        "evidence": [],
+        "suggested_action": "Review ergonomics, materials, heat buildup, and extended-wear comfort.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on bass",
+        "aspect": "bass",
+        "negative_mentions": 3,
+        "negative_review_count": 3,
+        "review_count": 100,
+        "support_rate": 0.03,
+        "evidence": [],
+        "suggested_action": "Investigate the reported bass concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 3,
+        "negative_review_count": 3,
+        "review_count": 100,
+        "support_rate": 0.03,
+        "evidence": [
+          {
+            "review_id": "ROW_000654_c06b74462587",
+            "original_aspect": "build quality",
+            "evidence": "faint rattle in the right cup",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B00SOM808U",
+    "review_count": 1,
+    "summary": "Based on 1 valid extracted reviews, the most frequently positive aspects are sound quality; the most frequently negative aspects are fit.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on fit",
+        "aspect": "fit",
+        "negative_mentions": 1,
+        "negative_review_count": 1,
+        "review_count": 1,
+        "support_rate": 1.0,
+        "evidence": [
+          {
+            "review_id": "ROW_000744_19d3d8a04450",
+            "original_aspect": "fit",
+            "evidence": "how it fit on my ears",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review fit geometry and provide clearer sizing or fit guidance.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B00U57WIYO",
+    "review_count": 100,
+    "summary": "Based on 100 valid extracted reviews, the most frequently positive aspects are sound quality, price, fit; the most frequently negative aspects are durability, build quality, sound quality.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on durability",
+        "aspect": "durability",
+        "negative_mentions": 24,
+        "negative_review_count": 24,
+        "review_count": 100,
+        "support_rate": 0.24,
+        "evidence": [
+          {
+            "review_id": "ROW_000750_ea565237ffc5",
+            "original_aspect": "durability",
+            "evidence": "only lasted me 3 days",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000758_32ab9ebdf612",
+            "original_aspect": "durability",
+            "evidence": "One broke within 2 to 3 months. The other broke within a month.",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported durability concern and validate it with targeted product testing.",
+        "priority": "high",
+        "confidence_rationale": "Repeated negative mentions provide strong support within the available reviews.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 8,
+        "negative_review_count": 8,
+        "review_count": 100,
+        "support_rate": 0.08,
+        "evidence": [
+          {
+            "review_id": "ROW_000756_f521fac06175",
+            "original_aspect": "reliability",
+            "evidence": "one side stopped working",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000766_a4761365cfa1",
+            "original_aspect": "reliability",
+            "evidence": "second pair to stop working 3 months",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_000789_ecd7292c2daa",
+            "original_aspect": "quality",
+            "evidence": "already were broken",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on sound quality",
+        "aspect": "sound quality",
+        "negative_mentions": 5,
+        "negative_review_count": 5,
+        "review_count": 100,
+        "support_rate": 0.05,
+        "evidence": [],
+        "suggested_action": "Review acoustic tuning and quality-control testing for the reported sound issue.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B00VIMOJTM",
+    "review_count": 99,
+    "summary": "Based on 99 valid extracted reviews, the most frequently positive aspects are sound quality, price, fit; the most frequently negative aspects are sound quality, durability, fit.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on sound quality",
+        "aspect": "sound quality",
+        "negative_mentions": 9,
+        "negative_review_count": 9,
+        "review_count": 99,
+        "support_rate": 0.091,
+        "evidence": [],
+        "suggested_action": "Review acoustic tuning and quality-control testing for the reported sound issue.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on durability",
+        "aspect": "durability",
+        "negative_mentions": 8,
+        "negative_review_count": 8,
+        "review_count": 99,
+        "support_rate": 0.081,
+        "evidence": [],
+        "suggested_action": "Investigate the reported durability concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on fit",
+        "aspect": "fit",
+        "negative_mentions": 7,
+        "negative_review_count": 7,
+        "review_count": 99,
+        "support_rate": 0.071,
+        "evidence": [
+          {
+            "review_id": "ROW_000858_536ecfa0f0ee",
+            "original_aspect": "fit",
+            "evidence": "ear phone itself is slightly too big",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review fit geometry and provide clearer sizing or fit guidance.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B0144TW9N8",
+    "review_count": 9,
+    "summary": "Based on 9 valid extracted reviews, the most frequently positive aspects are functionality, price, headphones; the most frequently negative aspects are durability, build quality.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 1,
+        "negative_review_count": 1,
+        "review_count": 9,
+        "support_rate": 0.111,
+        "evidence": [
+          {
+            "review_id": "ROW_000953_2b82bd3496ad",
+            "original_aspect": "quality",
+            "evidence": "Horrible quality!",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on durability",
+        "aspect": "durability",
+        "negative_mentions": 1,
+        "negative_review_count": 1,
+        "review_count": 9,
+        "support_rate": 0.111,
+        "evidence": [
+          {
+            "review_id": "ROW_000953_2b82bd3496ad",
+            "original_aspect": "durability",
+            "evidence": "Broke quickly within 2 months.",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported durability concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B017O0TTM8",
+    "review_count": 100,
+    "summary": "Based on 100 valid extracted reviews, the most frequently positive aspects are sound quality, comfort, connectivity; the most frequently negative aspects are comfort, fit, portability.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on comfort",
+        "aspect": "comfort",
+        "negative_mentions": 8,
+        "negative_review_count": 8,
+        "review_count": 100,
+        "support_rate": 0.08,
+        "evidence": [],
+        "suggested_action": "Review ergonomics, materials, heat buildup, and extended-wear comfort.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on fit",
+        "aspect": "fit",
+        "negative_mentions": 5,
+        "negative_review_count": 5,
+        "review_count": 100,
+        "support_rate": 0.05,
+        "evidence": [
+          {
+            "review_id": "ROW_000979_f20905e5f365",
+            "original_aspect": "fit",
+            "evidence": "found these to be quite tight on my head",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Review fit geometry and provide clearer sizing or fit guidance.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on portability",
+        "aspect": "portability",
+        "negative_mentions": 4,
+        "negative_review_count": 4,
+        "review_count": 100,
+        "support_rate": 0.04,
+        "evidence": [],
+        "suggested_action": "Investigate the reported portability concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B019DB5QQ4",
+    "review_count": 100,
+    "summary": "Based on 100 valid extracted reviews, the most frequently positive aspects are sound quality, fit, comfort; the most frequently negative aspects are durability, connectivity, charging.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on connectivity",
+        "aspect": "connectivity",
+        "negative_mentions": 6,
+        "negative_review_count": 6,
+        "review_count": 100,
+        "support_rate": 0.06,
+        "evidence": [
+          {
+            "review_id": "ROW_001070_a6d56d84fc12",
+            "original_aspect": "connectivity",
+            "evidence": "Bluetooth connection became unreliable",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate pairing, connection stability, and compatibility across common devices.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on durability",
+        "aspect": "durability",
+        "negative_mentions": 6,
+        "negative_review_count": 6,
+        "review_count": 100,
+        "support_rate": 0.06,
+        "evidence": [
+          {
+            "review_id": "ROW_001056_149ce7860b5d",
+            "original_aspect": "durability",
+            "evidence": "device broke on the third recharge",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_001066_27dbcba01306",
+            "original_aspect": "durability",
+            "evidence": "Died within one month of using",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_001070_a6d56d84fc12",
+            "original_aspect": "durability",
+            "evidence": "did not even last 10 months",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported durability concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on charging",
+        "aspect": "charging",
+        "negative_mentions": 5,
+        "negative_review_count": 5,
+        "review_count": 100,
+        "support_rate": 0.05,
+        "evidence": [
+          {
+            "review_id": "ROW_001057_1d495dd604f1",
+            "original_aspect": "charging",
+            "evidence": "would not recharge",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_001092_ed2971934054",
+            "original_aspect": "charging",
+            "evidence": "not being able to recharge",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate charging hardware, cables, and charge-cycle failure modes.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  },
+  {
+    "parent_asin": "B019Y5OGNS",
+    "review_count": 79,
+    "summary": "Based on 79 valid extracted reviews, the most frequently positive aspects are volume control, fit, price; the most frequently negative aspects are durability, volume control, build quality.",
+    "recommendations": [
+      {
+        "finding": "Negative feedback on durability",
+        "aspect": "durability",
+        "negative_mentions": 5,
+        "negative_review_count": 5,
+        "review_count": 79,
+        "support_rate": 0.063,
+        "evidence": [
+          {
+            "review_id": "ROW_001182_5e418975a41e",
+            "original_aspect": "durability",
+            "evidence": "Broke a day after",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate the reported durability concern and validate it with targeted product testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on build quality",
+        "aspect": "build quality",
+        "negative_mentions": 3,
+        "negative_review_count": 3,
+        "review_count": 79,
+        "support_rate": 0.038,
+        "evidence": [
+          {
+            "review_id": "ROW_001164_f0e864fa09f8",
+            "original_aspect": "construction quality",
+            "evidence": "falling apart - Used twice - Poor quality",
+            "sentiment": "negative"
+          },
+          {
+            "review_id": "ROW_001175_c405af0b75c1",
+            "original_aspect": "reliability",
+            "evidence": "Worked for exactly 1 week",
+            "sentiment": "negative"
+          }
+        ],
+        "suggested_action": "Investigate component durability and strengthen reliability testing.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      },
+      {
+        "finding": "Negative feedback on volume control",
+        "aspect": "volume control",
+        "negative_mentions": 3,
+        "negative_review_count": 3,
+        "review_count": 79,
+        "support_rate": 0.038,
+        "evidence": [],
+        "suggested_action": "Review control design, responsiveness, and volume-range behavior.",
+        "priority": "medium",
+        "confidence_rationale": "Multiple negative mentions justify targeted investigation, although the sample is limited.",
+        "limitation": "Review counts describe mentions in the available extracted sample; they do not prove root cause or population prevalence."
+      }
+    ]
+  }
+]

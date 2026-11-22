@@ -1,0 +1,28 @@
+{
+  "aspects": [
+    "Product feature or aspect discussed"
+  ],
+  "aspect_sentiments": [
+    {
+      "aspect": "Name of product aspect",
+      "sentiment": "positive | negative | neutral",
+      "evidence": "Short supporting phrase from the review"
+    }
+  ],
+  "customer_issues": [
+    "Specific problem or pain point experienced by the customer"
+  ],
+  "feature_requests": [
+    "Feature, improvement, or change explicitly requested by customer"
+  ],
+  "use_cases": [
+    "How or where the customer uses the product"
+  ],
+  "positive_points": [
+    "Specific positive experience or product strength"
+  ],
+  "negative_points": [
+    "Specific negative experience or product weakness"
+  ],
+  "review_summary": "Short factual summary of the customer's experience"
+}
